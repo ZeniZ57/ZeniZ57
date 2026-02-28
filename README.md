@@ -6,14 +6,13 @@
 - 📚 Cursando **Sistemas de Informação** [Anhanguera]
 - 💡 Foco atual: **Algoritmos, Lógica de Programação e Estruturas de Dados**.
 
-- <div align="center">
-  <img src="https://i.pinimg.com/originals/45/77/85/4577853f98ae7f2320f091dc999c30ac.gif" width="300px" alt="Gatinho programando">
-</div>
-
 ---
 
 ## 🚀 Sobre mim
 Estudante de SI em busca da minha primeira oportunidade de **estágio**. Sou apaixonado por tecnologia e estou dedicando meu tempo a dominar a lógica de programação e a linguagem Python. Meu objetivo é construir soluções eficientes e aprender com desenvolvedores experientes.
+<div align="center">
+  <img src="https://i.pinimg.com/originals/45/77/85/4577853f98ae7f2320f091dc999c30ac.gif" width="300px" alt="Gatinho programando">
+</div>
 
 ---
 
