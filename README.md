@@ -1,69 +1,37 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Walisson and I'm a Information Systems student, from Osasco - SP</p>
-
-###
-
-<h2 align="left"></h2>
-
-###
-
-<p align="left">✨ Creating bugs since: 2025<br>📚 I'm currently learning python and data structures<br>🎯 Goals: To become a full stack developer and master backend with python<br>🎲 Fun fact: I chose python because I like code that looks like English</p>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/ZeniZ57/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/ZeniZ57/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/ZeniZ57/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/ZeniZ57/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/ZeniZ57/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-</div>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thealgorithms/thealgorithms-original.svg" height="40" alt="thealgorithms logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-<br clear="both">
+# Olá, eu sou o [Walisson]! 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeniZ57&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://i.pinimg.com/originals/45/77/85/4577853f98ae7f2320f091dc999c30ac.gif" width="300px" alt="Gatinho programando">
 </div>
 
-###
+## 🎓 Formação Acadêmica
+- 📚 Cursando **Sistemas de Informação** [Anhanguera]
+- 💡 Foco atual: **Algoritmos, Lógica de Programação e Estruturas de Dados**.
 
-<div align="center">
-  <img height="200" src="https://giffiles.alphacoders.com/139/13940.gif"  />
-</div>
+---
 
-###
+## 🚀 Sobre mim
+Estudante de SI em busca da minha primeira oportunidade de **estágio**. Sou apaixonado por tecnologia e estou dedicando meu tempo a dominar a lógica de programação e a linguagem Python. Meu objetivo é construir soluções eficientes e aprender com desenvolvedores experientes.
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&left_color=black&right_color=orangered"  />
-</div>
+---
 
-###
+## 🛠️ Stack Técnica e Ferramentas
+Ferramentas que utilizo nos meus estudos e projetos acadêmicos:
 
-<br clear="both">
+- **Linguagens:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- **Conceitos:** ![Algoritmos](https://img.shields.io/badge/Algoritmos%20&%20Lógica-E34F26?style=for-the-badge)
+- **Ferramentas:** ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/ZeniZ57/ZeniZ57/output/snake.svg" alt="Snake animation" />
+---
 
-###
+## 📈 Estatísticas do GitHub
+![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=ZeniZ57-AQUI&show_icons=true&theme=dark&hide_border=true)
+
+---
+
+## 📫 Vamos nos conectar?
+- **LinkedIn:** [https://www.linkedin.com/in/walisson-santos-068a89354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+- **Email:** [walissonmoreira180@gmail.com]
+
+---
+*"A prática leva à perfeição... e a muito café!"* ☕
