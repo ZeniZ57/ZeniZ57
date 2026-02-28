@@ -3,7 +3,7 @@
 
 
 ## 🎓 Formação Acadêmica
-- 📚 Cursando **Sistemas de Informação** [Anhanguera]
+- 📚 Cursando **Sistemas de Informação** Anhanguera.
 - 💡 Foco atual: **Algoritmos, Lógica de Programação e Estruturas de Dados**.
 
 ---
