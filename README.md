@@ -1,4 +1,4 @@
-# Olá, eu sou o [Walisson]! 👋
+# Olá, eu sou o Walisson! 👋
 
 
 
