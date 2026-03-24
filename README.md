@@ -26,7 +26,7 @@ Ferramentas que utilizo nos meus estudos e projetos acadêmicos:
 ---
 
 ## 📈 Estatísticas do GitHub
-![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=ZeniZ57-AQUI&show_icons=true&theme=dark&hide_border=true)
+![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=ZeniZ57&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
