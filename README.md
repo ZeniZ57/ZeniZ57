@@ -1,7 +1,5 @@
 # Olá, eu sou o Walisson! 👋
 
-
-
 ## 🎓 Formação Acadêmica
 - 📚 Cursando **Sistemas de Informação** [Anhanguera].
 - 💡 Foco atual: **Algoritmos, Lógica de Programação e Estruturas de Dados**.
@@ -21,7 +19,7 @@ Ferramentas que utilizo nos meus estudos e projetos acadêmicos:
 
 - **Linguagens & BD:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 - **Conceitos:** ![Algoritmos](https://img.shields.io/badge/Algoritmos%20&%20Lógica-E34F26?style=for-the-badge)
-- **Ferramentas:** ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- **Ferramentas:** ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
